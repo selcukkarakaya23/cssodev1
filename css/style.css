@@ -1,0 +1,22 @@
+/* Açıklama satırı */
+
+body {
+    background-color:#dde6ed;
+    font-family:sans-serif;
+}
+h1 {
+    color:#27374d;
+}
+h2, h3 {
+    color:#526d82;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered-links {
+    text-align: center;
+}
